@@ -1,0 +1,32 @@
+"filename", "language", "TypeScript", "JSON with Comments", "JSON", "JavaScript", "Markdown", "TypeScript JSX", "CSS", "XML", "comment", "blank", "total"
+"d:\py\react\discord-clone\discord\.eslintrc.json", "JSON", 0, 0, 3, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\py\react\discord-clone\discord\README.md", "Markdown", 0, 0, 0, 0, 23, 0, 0, 0, 0, 14, 37
+"d:\py\react\discord-clone\discord\app\(auth)\(routes)\sign-in\[[...sign-in]]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"d:\py\react\discord-clone\discord\app\(auth)\(routes)\sign-up\[[...sign-up]]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"d:\py\react\discord-clone\discord\app\(auth)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 8, 0, 0, 0, 1, 9
+"d:\py\react\discord-clone\discord\app\(setup)\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 21, 0, 0, 0, 5, 26
+"d:\py\react\discord-clone\discord\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 61, 0, 0, 21, 82
+"d:\py\react\discord-clone\discord\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 35, 0, 0, 0, 4, 39
+"d:\py\react\discord-clone\discord\components.json", "JSON", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 17
+"d:\py\react\discord-clone\discord\components\modals\initial-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 50, 0, 0, 0, 8, 58
+"d:\py\react\discord-clone\discord\components\mode-toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 36, 0, 0, 0, 5, 41
+"d:\py\react\discord-clone\discord\components\providers\theme-providers.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 7, 0, 0, 0, 3, 10
+"d:\py\react\discord-clone\discord\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 51, 0, 0, 0, 6, 57
+"d:\py\react\discord-clone\discord\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 109, 0, 0, 0, 14, 123
+"d:\py\react\discord-clone\discord\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 182, 0, 0, 0, 19, 201
+"d:\py\react\discord-clone\discord\components\ui\form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 152, 0, 0, 0, 25, 177
+"d:\py\react\discord-clone\discord\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 21, 0, 0, 0, 5, 26
+"d:\py\react\discord-clone\discord\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 21, 0, 0, 0, 6, 27
+"d:\py\react\discord-clone\discord\lib\db.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 3, 9
+"d:\py\react\discord-clone\discord\lib\initial-profile.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 8, 33
+"d:\py\react\discord-clone\discord\lib\utils.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"d:\py\react\discord-clone\discord\middleware.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 0, 7, 2, 18
+"d:\py\react\discord-clone\discord\next.config.mjs", "JavaScript", 0, 0, 0, 2, 0, 0, 0, 0, 1, 2, 5
+"d:\py\react\discord-clone\discord\package-lock.json", "JSON", 0, 0, 6360, 0, 0, 0, 0, 0, 0, 1, 6361
+"d:\py\react\discord-clone\discord\package.json", "JSON", 0, 0, 43, 0, 0, 0, 0, 0, 0, 1, 44
+"d:\py\react\discord-clone\discord\postcss.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"d:\py\react\discord-clone\discord\public\next.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"d:\py\react\discord-clone\discord\public\vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"d:\py\react\discord-clone\discord\tailwind.config.ts", "TypeScript", 78, 0, 0, 0, 0, 0, 0, 0, 0, 2, 80
+"d:\py\react\discord-clone\discord\tsconfig.json", "JSON with Comments", 0, 26, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"Total", "-", 123, 26, 6423, 8, 23, 701, 61, 2, 8, 162, 7537
